@@ -110,8 +110,6 @@ I'm a **Full Stack Developer** currently pursuing my B.Tech in Electronics and C
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravibhinchar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravibhinchar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&cache_seconds=86400"/>
 
-<!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravibhinchar&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
